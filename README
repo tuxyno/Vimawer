@@ -1,6 +1,10 @@
 Vimawer is a simple image viewer tool written in Python.
-My first idea, was a very simple program that view main images format (jpg, png
-and gif), but, writing code on code, I'm making some nice features.
+My first idea, was a very simple program that can open main image
+formats (jpg, png and gif), but, writing code on code, I'm adding 
+some nice features.
+
+== What 
+
 The main power of this program are the Plugins!
 There are some plugins written by the author of Vimawer available, but you
 can write a plugin and share with the others.
