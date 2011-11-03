@@ -3,9 +3,30 @@ My first idea, was a very simple program that can open main image
 formats (jpg, png and gif), but, writing code on code, I'm adding 
 some nice features.
 
-== What 
-
-The main power of this program are the Plugins!
+== What Vimawer can actually do? ==
+	* File/Image manage 
+		* Open a lot of formats image.
+		* Open a remote URL.
+		* Save your images.
+	* Quick edit of an image
+		* Scale image plus, less, or exact size you want.
+		* Rotate image of 90, 180, 270 grades.		
+	* Explorer bar
+		* Explore your local PC images.
+		* Explore your recent images.
+		* Explore your recent urls.
+	* OTHER
+		* Show/Hide Toolbar or Explorer bar
+		* Fullscreen mode
+		* NICE Slideshow mode! 
+	* Plugins
+		* Ask a confirm before close a tab containing an image.
+		* Ask a confirm before close the app.
+		* Get an image directly from your Webcam.
+		* Get a shot of your screen (screenshot)
+		* Open the current image with an external program
+				
+As you can see, the full power of this program is with the Plugins!
 There are some plugins written by the author of Vimawer available, but you
 can write a plugin and share with the others.
 To have more info, see TestAll plugin in /Plugins directory.
